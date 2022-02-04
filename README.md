@@ -8,4 +8,4 @@ It covers testing API Endpoints (using an HTTP client and the browser DevTools).
 
 
 ATTENTION!
-If you want to get this project you need to get another file called "customermanagerapp" which here on my github account.
+If you want to get this file you need to get another file called "customermanagerapp" which is here on my github account to see all of my work.
